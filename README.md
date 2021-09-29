@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arifuddinatif
+- 👋 Hi, I’m Mohammed arifuddin atif
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning deep learning and AI
 - 📫 How to reach me https://www.linkedin.com/in/mohammed-arifuddin-atif-314084144/
