@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mohammed Arifuddin Atif
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Deep Learning and AI
+- 👀 I’m interested in Data Science, Machine Learning and computer vision
 - 📫 How to reach me https://www.linkedin.com/in/atif63/
 
 <!---
